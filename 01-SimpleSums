@@ -1,0 +1,11 @@
+#Exercise 2: The sum of 8 and 10
+# Name: Kcijo Galapate
+
+a = 8
+b = 10
+c = a+b
+
+print("THE SUM OF TWO NUMBERS")
+print("The first digit:", a) 
+print("The second digit:", b)
+print("The total sum is =", c )
