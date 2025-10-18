@@ -1,3 +1,8 @@
+#Kcijo Galapate
+#Days of the Month (ADVANCED)
+
+
+
 dm = { #made a dictionary named 'dm' to store data pairs
     1 : "January has 31 days", # number of month and indicated month with its days
     2 : "Febuary has 28 days", # number of month and indicated month with its days
