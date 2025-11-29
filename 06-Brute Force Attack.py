@@ -4,7 +4,7 @@
 
 
 
-password = "12345" #vreated a variable called password with "12345" as its value
+password = "12345" #created a variable called password with "12345" as its value
 
 max_attempts = 5 #stated the up to amount it can get to
 attempts = 0 #created base for the attempts 
